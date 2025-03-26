@@ -69,5 +69,5 @@ Future improvements could involve:
 ## 🚀 How to Run the Code?
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
+   git clone https://github.com/tanishkdubey/TitanicSurvivors.git
 
